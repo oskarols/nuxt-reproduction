@@ -1,4 +1,8 @@
 {
   "name": "nuxt-monorepo",
-  "packageManager": "yarn@4.6.0"
+  "packageManager": "yarn@4.8.1",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
 }

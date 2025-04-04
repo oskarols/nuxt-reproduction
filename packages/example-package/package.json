@@ -1,0 +1,10 @@
+{
+    "name": "example-package",
+    "private": true,
+    "type": "module",
+    "exports": {
+        "./*": {
+            "types": "./*.d.ts"
+        }
+    }
+}
