@@ -6,7 +6,7 @@
 </template>
 
 <script lang="ts">
-import { type Foobar } from "example-package/types/Foobar";
+import { type Foo } from "example-package/types/Foobar";
 
-const test: Foobar = {};
+const test: Foo = {};
 </script>
