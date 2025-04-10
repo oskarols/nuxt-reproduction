@@ -4,7 +4,8 @@
     "type": "module",
     "exports": {
         "./*": {
-            "types": "./*.d.ts"
+            "types": "./*.d.ts",
+            "defaults": "./*.js"
         }
     }
 }

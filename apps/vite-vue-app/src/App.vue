@@ -1,5 +1,10 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import { type Foobar } from "example-package/types/Foobar";
+
+const test: Foobar = {};
+console.log(test);
+
+import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>

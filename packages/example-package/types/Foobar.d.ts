@@ -1,1 +1,1 @@
-export type Foo = {};
+export type Foobar = {};

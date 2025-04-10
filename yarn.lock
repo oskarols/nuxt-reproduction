@@ -6639,6 +6639,7 @@ __metadata:
   dependencies:
     "@vitejs/plugin-vue": "npm:^5.2.1"
     "@vue/tsconfig": "npm:^0.7.0"
+    example-package: "workspace:^"
     typescript: "npm:~5.7.2"
     vite: "npm:^6.2.0"
     vue: "npm:^3.5.13"
